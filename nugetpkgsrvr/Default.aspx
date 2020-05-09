@@ -12,6 +12,9 @@
     </style>
 </head>
 <body>
+    <h1>
+        Welcome to ZenAPP Nuget Package Manager
+    </h1>
     <div>
         <h2>You are running NuGet.Server v<%= typeof(NuGetODataConfig).Assembly.GetName().Version %></h2>
         <p>
