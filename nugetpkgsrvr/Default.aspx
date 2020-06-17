@@ -13,7 +13,7 @@
 </head>
 <body>
     <h1>
-        Welcome to Zen Nuget Package Manager
+        Welcome to Zen Nuget Package Manager - Demo CICD
     </h1>
     <div>
         <h2>You are running NuGet.Server v<%= typeof(NuGetODataConfig).Assembly.GetName().Version %></h2>
